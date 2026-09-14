@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Hasham
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Mohammad+Hasham+Hashimi;Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript;Building+Modern+%26+Responsive+Web+Applications)](https://github.com/DenverCoder1/readme-typing-svg)
+
+</div>
 
 <h2 align="center">💻 Frontend Development</h2>
 
