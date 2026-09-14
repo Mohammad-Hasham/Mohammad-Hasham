@@ -1,6 +1,23 @@
 # 👋 Hi, I'm Hasham
 
-### <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<h2 align="center">💻 Frontend Development</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End%20Developer-0D1117?style=for-the-badge&logo=code&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Front--End%20Engineer-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Frontend%20Software%20Engineer-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Developer-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/UI%20Developer-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/UI%20Engineer-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer%2C%20Frontend-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
 
 I build **clean, responsive, and practical web experiences** and enjoy turning ideas into working products.
 
