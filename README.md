@@ -44,27 +44,88 @@ I'm focused on becoming a stronger developer by **building real projects, solvin
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+---
+##<h2 align="start">💼 Experience</h2>
+
+<p align="start">
+  <strong>Independent Front-End Developer</strong>
+</p>
+
+<p align="start">
+  I have gained hands-on experience by independently designing and building a wide range of web projects.
+  <br />
+  Through these projects, I have worked with different layouts, responsive designs, APIs,
+  <br />
+  interactive components, and real-world user interface challenges.
+  <br /><br />
+  Each project has helped me strengthen my problem-solving skills, improve my understanding
+  <br />
+  of modern frontend development, and gain practical experience with different technologies.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
-🛒 **E-commerce Web App**
-React · API Integration · Responsive Design
+### 🛒 E-commerce Web App
 
-💱 **Currency Exchange App**
-JavaScript · API Integration · Dynamic UI
+A modern e-commerce application built with React, featuring product browsing, categories, product details, wishlist and cart functionality, API integration, and a responsive user interface.
 
-🌐 **Responsive Websites**
-HTML · CSS · JavaScript
+**Tech:** React · JavaScript · API Integration · CSS · Responsive Design
+
+
+
+### 💱 Currency Exchange App
+
+A currency conversion application that uses an exchange-rate API to convert currencies dynamically, with amount input, currency selection, swapping currencies, and error handling.
+
+**Tech:** JavaScript · REST API · HTML · CSS · Error Handling
+
+
+### 🍽️ Restaurant UI Website
+
+A responsive restaurant website focused on creating an attractive and user-friendly interface with structured sections, food presentation, navigation, and responsive layouts.
+
+**Tech:** HTML · CSS · Responsive Design · UI Development
+
+
+
+### ✅ To-Do List App
+
+A simple task-management application where users can add, manage, and remove tasks while practicing JavaScript DOM manipulation and event handling.
+
+**Tech:** JavaScript · DOM Manipulation · Events · HTML · CSS
+
+
+
+### 🧮 Calculator App
+
+A functional calculator built from scratch to practice JavaScript logic, user interactions, mathematical operations, and dynamic interface updates.
+
+**Tech:** JavaScript · HTML · CSS · DOM Manipulation
+
 
 ---
 
 ## 📚 Currently Learning
 
-**TypeScript → Next.js → Advanced React**
+<p align="center">
+  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-> **Build. Break. Understand. Improve.**
+<p align="center">
+  <strong>Next:</strong>
+  TypeScript → Next.js → Advanced React → Angular
+</p>
+
+<p align="center">
+  <em>Expanding my frontend skills by learning new tools, frameworks, and modern development practices.</em>
+</p>
+
+> 🚀 **Build. Break. Understand. Improve.**
+
 
 ---
 
