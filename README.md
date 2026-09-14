@@ -4,22 +4,34 @@
 
 </div>
 
-<h2 align="center">💻 Frontend Development</h2>
+<h2 align="center">🌍 Frontend Around the World</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-0D1117?style=for-the-badge&logo=code&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Front--End%20Engineer-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Frontend%20Software%20Engineer-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/🇺🇸%20USA-Frontend%20Software%20Engineer-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Developer-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/UI%20Developer-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/UI%20Engineer-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/🇬🇧%20UK-Frontend%20Developer-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/🇨🇦%20Canada-Frontend%20Engineer-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer%2C%20Frontend-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/🇩🇪%20Germany-Frontend%20Entwickler-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/🇫🇷%20France-Développeur%20Frontend-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇪🇸%20Spain-Desarrollador%20Frontend-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/🇳🇱%20Netherlands-Frontend%20Developer-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇯🇵%20Japan-フロントエンドエンジニア-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/🇰🇷%20Korea-프론트엔드%20개발자-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇦🇫%20Afghanistan-Frontend%20Developer-161B22?style=for-the-badge&logo=code&logoColor=58A6FF" />
 </p>
 
 
