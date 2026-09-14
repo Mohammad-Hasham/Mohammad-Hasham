@@ -1,8 +1,28 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Mohammad+Hasham+Hashimi;Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript;Building+Modern+%26+Responsive+Web+Applications)](https://github.com/DenverCoder1/readme-typing-svg)
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%F0%9F%8C%8D+From+Afghanistan%2C+Building+for+the+World;%F0%9F%9A%80+Open+to+Remote+Opportunities+Worldwide;%E2%8F%B0+Flexible+Across+Time+Zones;%F0%9F%A4%9D+Ready+to+Work+with+Your+Team%27s+Schedule;%F0%9F%92%BB+Building+Modern+%26+Responsive+Web+Experiences;%F0%9F%94%A5+Learning+Today%2C+Building+Better+Tomorrow)](https://github.com/DenverCoder1/readme-typing-svg)
+
+</p>
+
+
+
+
+
 
 <h2 align="center">🌍 Frontend Around the World</h2>
 
@@ -39,7 +59,7 @@ I build **clean, responsive, and practical web experiences** and enjoy turning i
 
 I'm focused on becoming a stronger developer by **building real projects, solving problems, and learning by doing.**
 
----
+
 
 ## 💻 Tech Stack
 
