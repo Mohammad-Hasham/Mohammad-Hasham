@@ -63,6 +63,41 @@ I'm focused on becoming a stronger developer by **building real projects, solvin
   of modern frontend development, and gain practical experience with different technologies.
 </p>
 
+<p align="center">
+  <strong>💡 Build. Break. Understand. Improve.</strong>
+</p>
+---
+
+<h2 align="start">🚀 My Frontend Journey</h2>
+
+<p align="start">
+  <strong>January 2025 → Present</strong>
+</p>
+
+<p align="start">
+  I started my Frontend Development journey in <strong>January 2025</strong>.
+  <br />
+  During my first six months, I focused on building a strong foundation in
+  <strong>HTML, CSS, JavaScript</strong>, <strong> React</strong> and <strong>Responsive Web Development</strong>.
+</p>
+
+<p align="start">
+  🎓 After six months of dedicated learning and practice, I completed my
+  <strong>Frontend Development training at Ulearna</strong>, gaining practical
+  experience through hands-on projects.
+</p>
+
+<p align="start">
+  Since then, I have continued learning independently and building different
+  projects to strengthen my skills in <strong> TypeScript, API Integration</strong>,
+  and modern frontend development.
+</p>
+
+
+
+<br />
+
+
 ---
 
  ## 🚀 Featured Projects
@@ -129,9 +164,9 @@ A functional calculator built from scratch to practice JavaScript logic, user in
 
 ---
 
-## 🎯 Goal
+🎯 Goal
 
-Become a professional frontend developer and build software that is **useful, reliable, and enjoyable to use.**
+<p align="start"> Become a professional <strong>Frontend Developer</strong> and build software that is <strong>useful, reliable, scalable, and enjoyable to use.</strong> <br /><br /> Continue expanding my skills into <strong>Backend Development</strong>, <br /> learn how complete software systems work, and grow into a <strong>well-rounded Software Engineer.</strong> <br /><br /> 🚀 <strong>Long-term goal: Become an excellent Software Engineer who can build meaningful, high-quality software from frontend to backend.</strong> </p>
 
 ---
 
